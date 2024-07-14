@@ -1,0 +1,19 @@
+--> Following this tutorial: https://www.youtube.com/watch?v=zRSV80ga0zs&t=4s /*
+
+  (!DOCTYPE)
+<h1> Cyber Flash Drive <h1>
+<h2> here is a compact tool you can create and use for privacy and hacking on the go! <h2>
+
+Description:
+We will be installing the Tails OS onto a flash drive.
+Tails OS is a privacy focused Operating System that comes with Kali Linux.
+Kali has many applications desgined for hacking.
+Think of this as a plug n play solution.
+A hacking accelerator. (hint: start with metasploit)
+
+
+Materials needed:
+- use flash drive (8gb min)
+
+
+

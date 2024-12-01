@@ -32,25 +32,23 @@ Install and Write
 <p>
 <h2>Stage 1: Install Tails</h2>
 
-Step 1: Navigate to the official Tails site.
+Step 1: Navigate to the official Tails site. 
 
-// ![](media/STEP%201%20-%20CREATE%20A%20RESOURCE%20GROUP.png)
+![](media/01.%20Tails%20on%20Mac.png)
 
 Step 2: Install Tails from macOS
 
-![](media/STEP%202%20-%20CREATE%20A%20VIRTUAL%20MACHINE.png)
+![](media/02.%20Tails%20USB.png)
 
 Step 3: Downlaod Tails to your USB drive.
 
-![](media/STEP%203%20-%20ACCOUNT%20DETAILS%20AND%20INBOUND%20PORT.png)
+![](media/03.%20Verify%20Download.png)
 
 Step 4: Verify your download.
 
-![](media/STEP%204%20-%20DEPLOYMENT%20COMPLETE.png)
+![](media/04.%20Verification%20Successful.png)
 
-Step 5: In the Network Settings of your VM, ensure that the source selected is 'My IP address' so you can access the virtual machine from your computer. Additionally, select RDP for the Service option since we will be using port 3389 to RDP into the virtual machine.
 
-![](media/STEP%205%20-%20ALLOW%20MY%20IP%20ADDRESS.png)
 
 </p>
 <br />
@@ -59,21 +57,26 @@ Step 5: In the Network Settings of your VM, ensure that the source selected is '
 <p>
 <h2>Stage 2: Install balenaEtcher</h2>
 
+Step 5: Install balenaEtcher
+
+![](media/05.%20Install%20balenaEtcher.png)
+
+
 Step 6: Open the balenaEtcher download and copy the image to the Applications folder.
 
-![](media/STEP%206%20-%20INSTALL%20SPLUNK%20FREE%20TRIAL.png)
+![](media/06.%20Open%20balenaEtcher.png)
 
 Step 7: Using balenaEtcher, click on 'Flash from file' and select the Tails image installed in Stage 1.
 
-![](media/STEP%207%20-%20CHOOSE%20INSTALLATION%20PACKAGE.png)
+![](media/07.%20Write%20Image.png)
 
 Step 8: Flash warning that all the data on the USB will be lost! 
 
-![](media/STEP%208%20-%20SETUP%20WIZARD.png)
+![](media/08.%20Click%20Flash.png)
 
 Step 9: Flashing Tails to PNY USB
 
-![](media/STEP%209%20-%20DOWNLOAD%20SECURITY%20ESSENTIALS.png)
+![](media/09.%20Flashing%20PNY.png)
 
 </p>
 <br />
@@ -83,15 +86,15 @@ Step 9: Flashing Tails to PNY USB
 
 Step 10: Once you see the Flash Completed window.
 
-![](media/STEP%2010%20-%20MANAGE%20APPS.png)
+![](media/10.%20Flash%20Completed.png)
 
 Step 11: Using another device you have to continue the process because of the transfer in OS. 
 
-![](media/STEP%2011%20-%20LAUNCH%20APP.png)
+![](media/11.%20Another%20Device.png)
 
 Step 12: You have a USB drive with Tails on it. Have fun!
 
-![](media/STEP%2012%20-%20CONFIGURATION.png)
+![](media/12.%20Project%20Complete.png)
 
 
 A great video tutorial for how booting Tails looks can be seen here: https://youtu.be/gO9fTnMxwYw

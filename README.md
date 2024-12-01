@@ -32,19 +32,21 @@ Install and Write
 <p>
 <h2>Stage 1: Install Tails</h2>
 
-Step 1: Navigate to the official Tails site. 
+Step 1: Navigate to the official Tails site.
 
-![](media/01.%20Tails%20on%20Mac.png)
+![](media/00.%20Tails%20Site.png)
 
 Step 2: Install Tails from macOS
 
-![](media/02.%20Tails%20USB.png)
+![](media/01.%20Tails%20on%20Mac.png)
 
 Step 3: Downlaod Tails to your USB drive.
 
-![](media/03.%20Verify%20Download.png)
+![](media/02.%20Tails%20USB.png)
 
 Step 4: Verify your download.
+
+![](media/03.%20Verify%20Download.png)
 
 ![](media/04.%20Verification%20Successful.png)
 

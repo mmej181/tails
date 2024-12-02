@@ -1,6 +1,6 @@
 
 <h1>Tails USB</h1>
-This tutorial outlines the how to create a powerful cybersecurity tool on a USBv drive.<br />
+This tutorial outlines the how to create a powerful cybersecurity tool on a USB drive.<br />
 
 
 <h2>How to:</h2>

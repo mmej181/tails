@@ -1,6 +1,11 @@
 
 <h1>Tails USB</h1>
-This tutorial outlines the how to create a powerful cybersecurity tool on a USB drive.<br />
+This tutorial demonstrates how to craft a versatile and portable cybersecurity tool on a USB drive, perfect for ensuring privacy and executing hacking tasks on the go!
+
+<h2> Description:
+We will be installing the Tails OS onto a flash drive.
+Tails OS is a privacy focused Operating System that comes with Kali Linux.
+Kali has many applications desgined for hacking. </h2>
 
 
 <h2>How to:</h2>
@@ -99,4 +104,4 @@ Step 12: You have a USB drive with Tails on it. Have fun!
 ![](media/12.%20Project%20Complete.png)
 
 
-A great video tutorial for how booting Tails looks can be seen here: https://youtu.be/gO9fTnMxwYw
+Please see the following video tutorial for next steps when booting up in Tails: https://youtu.be/gO9fTnMxwYw
